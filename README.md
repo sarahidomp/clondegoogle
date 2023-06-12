@@ -3,7 +3,7 @@
 
 ## ÍNDICE
 1. Intro
-2. Qué contruí 🌟
+2. Qué construí 🌟
 3. Objetivo del proyecto 
 4. Link a demo 💻
 
@@ -13,7 +13,7 @@
 ## 1. Intro
 HTML5 trabaja de la mano con CSS3 para la creación de sitios web que usamos todos los días.
 Incluso, el sitio web desde donde estas visualizando este contenido está contruido con HTML Y CSS.
-## 2. Qué contruí
+## 2. Qué construí
 En este proyecto me enfoqué en contruir la clonación de la interfaz de Google.
 Contiene las siguientes secciones:
 * Header: Sección que involucra la foto de perfil, iconos y el menú con hipervínculos.
